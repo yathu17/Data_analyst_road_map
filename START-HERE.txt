@@ -1,0 +1,10 @@
+Daily Data — Web App
+
+Open index.html in a modern browser to read the lessons.
+For reliable progress storage, serve this folder with a local web server, or use the hosted app. File-based browser storage varies by browser.
+
+All 54 lessons, diagrams and application code are included.
+The optional Google Fonts need internet; system fonts work without them.
+This ZIP does not include progress from your hosted browser. Export a backup from the Progress tab, then restore it in the downloaded app if needed.
+
+This is a web application, not an Android APK or iPhone App Store package.
